@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1453985860 source:/home/giuliani/Scrivania/chatCpp/server/server.cpp
+	<iostream>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<stdlib.h>
+	<unistd.h>
+
